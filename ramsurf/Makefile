@@ -1,4 +1,5 @@
 FC=gfortran
+FFLAGS=-O2
 
 TARGET=ramsurf1.5
 TIMELOG=.timings
