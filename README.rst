@@ -22,4 +22,19 @@ to build the application, and::
 
 to get your mark.
 
-Then hack the code, bench again and so on until exhaustion!
+Then hack the code, run::
+
+    make check
+    
+to be sure your modifications are correct, then bench again and so on until
+exhaustion!
+
+When you're done, submit a Pull Request or update your latest pull request on
+this very repository and your code will be automagically benchmarked.
+
+Results
+-------
+
+Results are constantly updated and and roughly formated on
+http://serge-sans-paille.github.io/compilation-challenge during the compilation
+challenge duration.
